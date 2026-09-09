@@ -37,7 +37,7 @@
   "auto_map": {
     "AutoTokenizer": [
       "tokenization_sentencepiece.SentencePieceTokenizer",
-      null
+      "tokenization_sentencepiece.SentencePieceTokenizer"
     ]
   },
   "backend": "custom",
